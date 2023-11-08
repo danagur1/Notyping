@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FinalProject2</string>
+    <string name="login">LOG IN</string>
+    <string name="register">SIGN UP</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="forgot_pass">I forgot my password</string>
+    <string name="new_account">I don\'t have an account</string>
+    <string name="createAccount">Create My Account</string>
+    <string name="phone">phone number</string>
+    <string name="mail">mail</string>
+    <string name="returnMain">Return to login</string>
+    <string name="search">Search</string>
+    <string name="type">Type</string>
+    <string name="edit_note_here">Enter your note</string>
+    <string name="note_title_here">Note title</string>
+    <string name="submit">Submit</string>
+</resources>

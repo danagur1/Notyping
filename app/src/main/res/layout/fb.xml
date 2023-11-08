@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    tools:ignore="HardcodedText">
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        style="@style/fab.add"
+        android:id="@+id/fab_add"
+        app:backgroundTint="@color/p_purple"
+        app:fabSize="normal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/fab_type"
+        style="@style/fab.other"
+        app:fabSize="normal"
+        app:backgroundTint="@color/p_purple"
+        app:layout_constraintBottom_toTopOf="@+id/fab_add"
+        app:layout_constraintEnd_toEndOf="@+id/fab_add"
+        app:layout_constraintStart_toStartOf="@+id/fab_add"
+        app:srcCompat="@drawable/write" />
+
+    <TextView
+        style="@style/small_text"
+        android:id="@+id/type_text"
+        android:text="@string/type"
+        app:layout_constraintBottom_toBottomOf="@+id/fab_type"
+        app:layout_constraintEnd_toStartOf="@+id/fab_type"
+        app:layout_constraintTop_toTopOf="@+id/fab_type" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        style="@style/fab.other"
+        android:id="@+id/fab_scan"
+        app:fabSize="normal"
+        app:backgroundTint="@color/p_purple"
+        app:layout_constraintBottom_toTopOf="@+id/fab_type"
+        app:layout_constraintEnd_toEndOf="@+id/fab_type"
+        app:layout_constraintStart_toStartOf="@+id/fab_type"
+        app:srcCompat="@drawable/scan" />
+
+    <TextView
+        style="@style/small_text"
+        android:id="@+id/scan_text"
+        android:text="Scan"
+        app:layout_constraintBottom_toBottomOf="@+id/fab_scan"
+        app:layout_constraintEnd_toStartOf="@+id/fab_scan"
+        app:layout_constraintTop_toTopOf="@+id/fab_scan" />
+</androidx.constraintlayout.widget.ConstraintLayout>

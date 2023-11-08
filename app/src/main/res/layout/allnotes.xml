@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    style="@style/general_layout.linear">
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/p_orange"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark">
+        style="@style/MyToolbarStyle"
+        <ImageButton
+            android:id="@+id/search_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/p_orange"
+            android:layout_gravity="end"
+            android:colorAccent="@color/p_blue"
+            android:src="@drawable/searh" />
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <TextView
+        style="@style/my_text.title"
+        android:text="All Notes"
+        />
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numColumns="3"
+        android:id="@+id/notes"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <LinearLayout
+                style="@style/notes_col"
+                android:layout_marginLeft="7dp"
+                android:id="@+id/col0"
+                ></LinearLayout>
+            <LinearLayout
+                style="@style/notes_col"
+                android:layout_marginLeft="14dp"
+                android:id="@+id/col1"
+            ></LinearLayout>
+            <LinearLayout
+                style="@style/notes_col"
+                android:layout_marginLeft="14dp"
+                android:id="@+id/col2"
+            ></LinearLayout
+>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

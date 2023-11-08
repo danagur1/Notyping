@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/add.xml" value="0.2325" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/dots.xml" value="0.209" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/dots_black.xml" value="0.208" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.209" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/ic_baseline_star_24.xml" value="0.2325" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/menu.xml" value="0.2325" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/scan.xml" value="0.1595" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/searh.xml" value="0.209" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/star.xml" value="0.2325" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/stared.xml" value="0.2325" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/stared_marked.xml" value="0.217" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/text_back.xml" value="0.1585" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/text_back_marked.xml" value="0.2325" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/drawable/write.xml" value="0.2325" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/font/myfont.xml" value="0.20572916666666666" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/font/myfont2.xml" value="0.18020833333333333" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/activity_main.xml" value="0.1359375" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/all_notes_layout.xml" value="0.14895833333333333" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/all_notes_with_ab.xml" value="0.23333333333333334" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/allnotes.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/button_styled.xml" value="0.12864583333333332" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/camera_preview.xml" value="0.25" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/custom_action_bar_layout.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/edit_toolbar.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/error.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/fb.xml" value="0.7346938775510204" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/forgotpass_window.xml" value="0.24895833333333334" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/login.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/new_note.xml" value="0.12291666666666666" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/register.xml" value="0.20498783454987834" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/scan.xml" value="0.184375" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/search_window.xml" value="0.1" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/layout/toolbars.xml" value="0.25" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/menu/edit_menu.xml" value="0.25" />
+        <entry key="..\:/Users/danag/AndroidStudioProjects/FinalProject2/app/src/main/res/menu/menu.xml" value="0.17552083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
